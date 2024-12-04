@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KEVIN\\DOT NET\\MovieTrain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92BF64-C7B0-4FD5-AACA-6999A57E905E}|MovieTrain.csproj|d:\\kevin\\dot net\\movietrain\\movietrain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E92BF64-C7B0-4FD5-AACA-6999A57E905E}|MovieTrain.csproj|solutionrelative:movietrain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92BF64-C7B0-4FD5-AACA-6999A57E905E}|MovieTrain.csproj|d:\\kevin\\dot net\\movietrain\\controllers\\movieappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92BF64-C7B0-4FD5-AACA-6999A57E905E}|MovieTrain.csproj|solutionrelative:controllers\\movieappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92BF64-C7B0-4FD5-AACA-6999A57E905E}|MovieTrain.csproj|d:\\kevin\\dot net\\movietrain\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92BF64-C7B0-4FD5-AACA-6999A57E905E}|MovieTrain.csproj|solutionrelative:data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92BF64-C7B0-4FD5-AACA-6999A57E905E}|MovieTrain.csproj|d:\\kevin\\dot net\\movietrain\\models\\movieapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92BF64-C7B0-4FD5-AACA-6999A57E905E}|MovieTrain.csproj|solutionrelative:models\\movieapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 254,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieAppController.cs",
+              "DocumentMoniker": "D:\\KEVIN\\DOT NET\\MovieTrain\\Controllers\\MovieAppController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieAppController.cs",
+              "ToolTip": "D:\\KEVIN\\DOT NET\\MovieTrain\\Controllers\\MovieAppController.cs",
+              "RelativeToolTip": "Controllers\\MovieAppController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:49:19.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "D:\\KEVIN\\DOT NET\\MovieTrain\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApiContext.cs",
+              "ToolTip": "D:\\KEVIN\\DOT NET\\MovieTrain\\Data\\ApiContext.cs",
+              "RelativeToolTip": "Data\\ApiContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:48:17.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieApp.cs",
+              "DocumentMoniker": "D:\\KEVIN\\DOT NET\\MovieTrain\\Models\\MovieApp.cs",
+              "RelativeDocumentMoniker": "Models\\MovieApp.cs",
+              "ToolTip": "D:\\KEVIN\\DOT NET\\MovieTrain\\Models\\MovieApp.cs",
+              "RelativeToolTip": "Models\\MovieApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:46:15.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieTrain.csproj",
+              "DocumentMoniker": "D:\\KEVIN\\DOT NET\\MovieTrain\\MovieTrain.csproj",
+              "RelativeDocumentMoniker": "MovieTrain.csproj",
+              "ToolTip": "D:\\KEVIN\\DOT NET\\MovieTrain\\MovieTrain.csproj",
+              "RelativeToolTip": "MovieTrain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T12:44:43.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
